@@ -42,6 +42,7 @@ books (参考书目)
 
 20. `Git`
  * http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/ch01.html
+ * https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md
 
 websites 
 =====
