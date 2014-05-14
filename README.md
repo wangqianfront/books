@@ -41,3 +41,17 @@ books (参考书目)
 * NodeJs
 
 
+websites (Specialized collection of foreign excellent websites)
+=====
+
+1. JAVA
+  * http://www.programcreek.com/
+  
+2. IOS
+  * http://www.raywenderlich.com/
+  * http://iosdevelopertips.com/
+  * http://jenniferdewalt.com/
+  * http://blog.jenniferdewalt.com/
+
+3. Slides
+  * http://slides.com/tildeslash/monit
