@@ -1,43 +1,43 @@
 books (参考书目)
 =====
 
-* **__Apache__**
+* Apache
 
-* **__Bash**__
+* Bash
 
-* **__C++**__
+* C++
 
-* **__CSS**__
+* CSS
 
-* **__CoffeeScript**__
+* CoffeeScript
 
-* **__HTML,XML**__
+* HTML,XML
 
-* **__HTTP**__
+* HTTP
 
-* **__JSON**__
+* JSON
 
-* **__Java**__
+* Java
 
-* **__JavaScript**__
+* JavaScript
 
-* **__Makefile**__
+* Makefile
 
-* **__Makrdown**__
+* Makrdown
 
-* **__Nginx**__
+* Nginx
   * http://tengine.taobao.org/book/index.html
 
-* **__Objective C**__
+* Objective C
 
-* **__PHP**__
+* PHP
 
-* **__Python**__
+* Python
 
-* **__Ruby**__
+* Ruby
 
-* **__GO**__
+* GO
 
-* **__NodeJs**__
+* NodeJs
 
 
